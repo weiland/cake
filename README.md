@@ -13,7 +13,6 @@ Due to my birthday my mum baked some fresh :birthday:
 - :cake:
 - :cake:
 - :cake:
-- :cake:
 
 (fcfs) :balloon:
 
