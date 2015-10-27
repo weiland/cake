@@ -20,11 +20,11 @@ This time I am going to bake the cake by my own.
 - :cake:
 - :cake:
 - :cake:
-- :cake:
 
 ### Presents
 - :gift:
-- :pizza: 
+- :pizza:
+- :gift: 
 
 (fcfs) :balloon:
 
