@@ -4,7 +4,9 @@
 
 This time I am going to bake the cake by my own.
 
-(i hope you brought your *fork*... :fork_and_knife:)
+(I hope you brought your *fork*... :fork_and_knife:)
+
+Feel free to pick as many pieces you want!
 
 ### Available Pieces
 - :cake:
@@ -19,11 +21,6 @@ This time I am going to bake the cake by my own.
 - :cake:
 
 ### Presents
-- :gift:
-- :pizza:
-- :gift:
-- :gift: :balloon:
-- :gift: 👾
 
 (fcfs) :balloon:
 
