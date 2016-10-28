@@ -18,7 +18,6 @@ Feel free to pick as many pieces you want!
 - :cake:
 - :cake:
 - :cake:
-- :cake:
 
 ### Presents
 
@@ -29,3 +28,4 @@ Feel free to pick as many pieces you want!
 ![Happy Birthday](https://media.giphy.com/media/IQF90tVlBIByw/giphy.gif)
 ![Happy Birthday](http://i.giphy.com/OyIZL9LYrwFJ6.gif)
 ![Happy Birthday dear Pascal\!](https://media4.giphy.com/media/bA69dlfcVLtIc/giphy.gif)
+![Happy B'day!](http://i.giphy.com/cvAD85jb12V7ViHvvz3y.gif)
