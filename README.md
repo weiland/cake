@@ -9,13 +9,7 @@ This time I am going to bake the cake by my own.
 Feel free to pick as many pieces you want!
 
 ### Available Pieces
-- :cake:
-- :cake:
-- :cake:
-- :cake:
-- :cake:
-- :cake:
-- :cake:
+- all gone
 
 ### Presents
 
