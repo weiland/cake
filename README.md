@@ -1,6 +1,6 @@
 # Birthday cake
 
-~~Due to my birthday my mum baked some fresh :birthday:~~
+Due to my birthday my mum baked some fresh :birthday:
 
 This time I am going to bake the cake by my own.
 
@@ -9,7 +9,12 @@ This time I am going to bake the cake by my own.
 Feel free to pick as many pieces you want!
 
 ### Available Pieces
-- all gone
+- :cake:
+- :cake:
+- :cake:
+- :cake:
+- :cake:
+- :cake:
 
 ### Presents
 
