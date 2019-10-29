@@ -14,7 +14,6 @@ Feel free to pick as many pieces you want!
 - :cake:
 - :cake:
 - :cake:
-- :cake:
 
 ### Presents
 
