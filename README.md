@@ -1,14 +1,13 @@
 # Birthday cake
 
-Due to my birthday my mum baked some fresh :birthday:
-
-This time I am going to bake the cake by my own.
+Due to my birthday I baked some fresh :birthday:
 
 (I hope you brought your *fork*... :fork_and_knife:)
 
 Feel free to pick as many pieces you want!
 
 ### Available Pieces
+- :cake:
 - :cake:
 - :cake:
 - :cake:
